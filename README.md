@@ -1,6 +1,6 @@
 ﻿# Automotive Monitor System
 
-![Project Image](https://drive.google.com/file/d/1Cz2sUQyFGio2iblSYW-Ok1C7A-__hz40/view?usp=sharing)
+![Project Image](https://raw.githubusercontent.com/MohamadAbdelmoniem/Automotive-Monitor-System/main/Automotive%20Monitor%20System%20Source/Automotive%20Monitor%20System.PNG)
 
 ## Table of Contents
 - [Description](#description)
